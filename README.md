@@ -2,4 +2,7 @@
 
 > # [👨🏻‍💻 포트폴리오](https://dawn-cart-fe8.notion.site/b4645545946e46baa610e4ec3087903a)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=SJ70)](https://solved.ac/sj70/)
+
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=100&section=footer)
