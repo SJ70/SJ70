@@ -17,6 +17,11 @@
 | [🍀 **로또**](https://github.com/SJ70/java-lotto-6) |
 | [🎅🏻 **크리스마스 프로모션**](https://github.com/SJ70/java-christmas-6-SJ70) |
 
+| ☁️ 구름톤 트레이닝 풀스택 실습 과제 |
+| --- |
+| [📺️ **넷플릭스 메인 페이지**](https://github.com/SJ70/Netflix_Main_Page) |
+| [✅️ **Todo 앱**](https://github.com/SJ70/Todo_App) |
+
 | 🧶 토이 프로젝트 |
 | --- |
 | [🎮 **미니 게임**](https://github.com/SJ70/mini_games) |
