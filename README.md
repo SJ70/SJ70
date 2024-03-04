@@ -20,7 +20,9 @@
 | ☁️ 구름톤 트레이닝 풀스택 실습 과제 |
 | --- |
 | [📺️ **넷플릭스 메인 페이지**](https://github.com/SJ70/Netflix_Main_Page) |
-| [✅️ **Todo 앱**](https://github.com/SJ70/Todo_App) |
+| [✅️ **Todo App**](https://github.com/SJ70/Todo_App) |
+| [🔍 **Github_Finder**](https://github.com/SJ70/Github_Finder) |
+| [📗 **Spread Sheet**](https://github.com/SJ70/Spread_Sheet) |
 
 | 🧶 토이 프로젝트 |
 | --- |
