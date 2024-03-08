@@ -23,6 +23,7 @@
 | [✅️ **Todo App**](https://github.com/SJ70/Todo_App) |
 | [🔍 **Github_Finder**](https://github.com/SJ70/Github_Finder) |
 | [📗 **Spread Sheet**](https://github.com/SJ70/Spread_Sheet) |
+| [🧮 **Budget_Calculator**](https://github.com/SJ70/Budget_Calculator) |
 
 | 🧶 토이 프로젝트 |
 | --- |
