@@ -15,7 +15,7 @@
 | 🧶 장난감 | 배포 링크 | Description |
 | --- | --- | --- |
 | [🎮 **미니 게임**](https://github.com/SJ70/mini_games) | [🔗](https://sj70.github.io/mini_games/) | HTML Canvas를 이용한 미니게임 |
-| [👑 **N-Queen 시뮬레이터**](https://github.com/SJ70/N-Queen_Simulator) | [🔗](https://sj70.github.io/N-Queen_Simulator/) | N-Queen BFS 과정 시각화 |
+| [👑 **N-Queen 시뮬레이터**](https://github.com/SJ70/N-Queen_Simulator) | [🔗](https://sj70.github.io/N-Queen_Simulator/) | N-Queen DFS 과정 시각화 |
 | [🔴 **포케띠부덱스**](https://github.com/SJ70/poke-ttibu-dex) | [🔗](https://sj70.github.io/poke-ttibu-dex/) | 포켓몬 띠부띠부씰 수집 노트 |
 | [🧮 **REPO 우리는 지금 무엇을 들 수 있을까**](https://github.com/SJ70/repo-what-can-we-hold-up-now) | [🔗](https://sj70.github.io/repo-what-can-we-hold-up-now/) | REPO 들 수 있는 몬스터 계산기 |
 
