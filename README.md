@@ -45,6 +45,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
+**QA**  
+![JaCoCo](https://img.shields.io/badge/JaCoCo-CC0033?style=for-the-badge&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=100&section=footer)
