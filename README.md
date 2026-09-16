@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=200&section=header&text=SJ70&fontSize=70&fontAlign=85&fontAlignY=40&animation=fadeIn)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sj70)](https://solved.ac/sj70/)
-[![Solved.ac Streak](http://mazandi.herokuapp.com/api?handle=sj70&theme=cold)](https://solved.ac/sj70/)
-<!-- [![Solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=sj70)](https://solved.ac/sj70/) -->
 
 ---
 
@@ -12,12 +10,12 @@
 | [✍ **백준 C**](https://github.com/SJ70/Baekjoon_Java) | `Pure C` |
 | [✍ **프로그래머스 JAVA**](https://github.com/SJ70/Programmers_Java) | `Java` |
 
-| 🧶 장난감 | 배포 링크 | Description |
-| --- | --- | --- |
-| [🎮 **미니 게임**](https://github.com/SJ70/mini_games) | [🔗](https://sj70.github.io/mini_games/) | HTML Canvas를 이용한 미니게임 |
-| [👑 **N-Queen 시뮬레이터**](https://github.com/SJ70/N-Queen_Simulator) | [🔗](https://sj70.github.io/N-Queen_Simulator/) | N-Queen DFS 과정 시각화 |
-| [🔴 **포케띠부덱스**](https://github.com/SJ70/poke-ttibu-dex) | [🔗](https://sj70.github.io/poke-ttibu-dex/) | 포켓몬 띠부띠부씰 수집 노트 |
-| [🧮 **REPO 우리는 지금 무엇을 들 수 있을까**](https://github.com/SJ70/repo-what-can-we-hold-up-now) | [🔗](https://sj70.github.io/repo-what-can-we-hold-up-now/) | REPO 들 수 있는 몬스터 계산기 |
+| 🧶 장난감 | URL | Description | |
+| --- | --- | --- | --- |
+| [💰 **메소워치**](https://github.com/SJ70/meso-watch) | [🔗](https://sj70.github.io/meso-watch/) | 메이플스토리 재획 타이머 오버레이 앱 | 2026 |
+| [👑 **N-Queen 시뮬레이터**](https://github.com/SJ70/N-Queen_Simulator) | [🔗](https://sj70.github.io/N-Queen_Simulator/) | N-Queen DFS 과정 시각화 | 2023 |
+| [🎮 **미니 게임**](https://github.com/SJ70/mini_games) | [🔗](https://sj70.github.io/mini_games/) | HTML Canvas를 이용한 미니게임 | 2023 |
+| [🧮 **REPO 우리는 지금 무엇을 들 수 있을까**](https://github.com/SJ70/repo-what-can-we-hold-up-now) | [🔗](https://sj70.github.io/repo-what-can-we-hold-up-now/) | REPO 들 수 있는 몬스터 계산기 | 2025 |
 
 ---
 
